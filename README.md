@@ -42,7 +42,7 @@ npm install
 
 **Proyectos**:
 
-- HTML, CSS, Javascript, Sveltekit.
+- HTML, CSS, Javascript, Giphy, Sveltekit.
 
 ## 👑 Contribuidores
 
