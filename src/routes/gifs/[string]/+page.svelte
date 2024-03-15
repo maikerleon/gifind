@@ -7,7 +7,7 @@
     let search = $page.params.string.replace(/-/g, " ");
     let load = false;
     let gifs = [];
-    let API_KEY = 'qgCO5ESnIKrH8g5YRpmh7F6odZ5eIPjQ';
+    let API_KEY = 'YOUR_API_KEY';
 
     onMount( async () => {
         await searchGifs();

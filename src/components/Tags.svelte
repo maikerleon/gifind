@@ -3,7 +3,7 @@
   import CustomBadge from "./CustomBadge.svelte";
   
   let tags = [];
-  let API_KEY = 'qgCO5ESnIKrH8g5YRpmh7F6odZ5eIPjQ';
+  let API_KEY = 'YOUR_API_KEY';
 
   onMount( async () => {
     await fetch(`https://api.giphy.com/v1/gifs/trending?api_key=${API_KEY}&limit=10`)
