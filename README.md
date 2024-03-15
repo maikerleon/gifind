@@ -26,12 +26,15 @@
 git clone https://github.com/maikerleon/gifind.git
 ```
 
-### **Proyectos**
-
-Accede a la carpeta del proyecto que quieras:
+2. Accede a la carpeta del proyecto:
 
 ```bash
 cd gifind
+```
+
+3. Accede a la carpeta del proyecto:
+
+```bash
 npm install
 ```
 
@@ -39,7 +42,7 @@ npm install
 
 **Proyectos**:
 
-- HTML, CSS & Javascript.
+- HTML, CSS, Javascript, Sveltekit.
 
 ## 👑 Contribuidores
 
