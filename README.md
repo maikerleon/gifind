@@ -14,7 +14,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/maikerleon/gifind)
 ![GitHub forks](https://img.shields.io/github/forks/maikerleon/gifind)
 ![GitHub PRs](https://img.shields.io/github/issues-pr/maikerleon/gifind)
-![Svelte Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
+![Svelte Badge](https://img.shields.io/badge/Svelte-BC52EE?logo=svelte&logoColor=fff&style=flat)
 
 </div>
 
