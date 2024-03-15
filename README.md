@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="./static/web.png" /> 
-  <h3>
-    <strong>GIF - Gifind</strong>
-  </h3>
+     <img src="./static/web.png" />
+   <h3>
+     <strong>GIF - Gifind</strong>
+   </h3>
 </div>
 
 <p></p>
@@ -18,34 +18,38 @@
 
 </div>
 
-## ✨ Instalación
+## ✨ Installation
 
-1. Clona el repositorio en tu máquina local:
+1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/maikerleon/gifind.git
 ```
 
-2. Accede a la carpeta del proyecto:
+2. Access the project folder:
 
 ```bash
-cd gifind
+gifind cd
 ```
 
-3. Accede a la carpeta del proyecto:
+3. Access the project folder:
 
 ```bash
 npm install
 ```
 
-## 🛠️ Stack
+4. Change YOUR_API_KEY to your GIPHY API KEY
 
-**Proyectos**:
+https://developers.giphy.com/
+
+## 🛠️Stack
+
+**Projects**:
 
 - HTML, CSS, Javascript, Giphy, Sveltekit.
 
-## 👑 Contribuidores
+## 👑 Contributors
 
 <a href="https://github.com/maikerleon/gifind/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=maikerleon/gifind" />
+   <img src="https://contrib.rocks/image?repo=maikerleon/gifind" />
 </a>
